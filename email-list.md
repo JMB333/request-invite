@@ -15,4 +15,4 @@
 * Danny Seng *WGU*: dseng1@wgu.edu *GitHub*: dseng13@gmail.com
 * Beau Jones *WGU*: bjon223@wgu.edu *GitHub*: beau7jones@gmail.com
 * Greg Pina *WGU*: gpina6@wgu.edu *GitHub*: pinagm2825@gmail.com
-
+* James Blackman *WGU*: jbl1330@wgu.edu *GitHub*: jamesmichaelblackman@gmail.com
